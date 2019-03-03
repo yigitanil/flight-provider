@@ -3,7 +3,7 @@ package com.ygt.flightprovider.model.consume;
 import java.time.LocalDateTime;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.ygt.json.deserializer.LongToLocalDateTimeDeserializer;
+import com.ygt.flightprovider.json.deserializer.LongToLocalDateTimeDeserializer;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

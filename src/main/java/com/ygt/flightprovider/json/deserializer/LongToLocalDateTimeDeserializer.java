@@ -1,4 +1,4 @@
-package com.ygt.json.deserializer;
+package com.ygt.flightprovider.json.deserializer;
 
 import java.io.IOException;
 import java.time.Instant;
